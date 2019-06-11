@@ -14,7 +14,7 @@ background-image:
 h1{
   font-size:144px;
   color:#FFFFFF ;
-  -webkit-text-stroke: 0.01px #006000;important!
+  -webkit-text-stroke: 0.01px #006000!important;
 	}
 
 body{
@@ -43,6 +43,11 @@ iframe{
 }
 
 li{
-	margin-right:100px;
+	margin-right:130px;
+	font-size:21px
+}
+
+.bg-primary{
+	background-color: #006600!important;
 }
 
